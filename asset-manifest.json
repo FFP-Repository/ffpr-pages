@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48967118.css",
+    "main.js": "/static/js/main.0140613c.js",
+    "static/media/OpenSans-Regular.ttf": "/static/media/OpenSans-Regular.1b0809d519837cb7aad3.ttf",
+    "static/media/logoF.png": "/static/media/logoF.ec9c45150b38a0a09ec3.png",
+    "index.html": "/index.html",
+    "main.48967118.css.map": "/static/css/main.48967118.css.map",
+    "main.0140613c.js.map": "/static/js/main.0140613c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48967118.css",
+    "static/js/main.0140613c.js"
+  ]
+}
